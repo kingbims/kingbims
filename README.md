@@ -6,7 +6,7 @@ Hi there 👋 An overview about me:
 * 🌱 I’m currently learning CI/CD, and also looking forward to learning Solidity.
 * 👯‍♀️ I’m looking to collaborate on projects that will create value for developers and organizations.
 * 💬 Ask me about NodeJS, Express, JavaScript, Typescript, NestJS, and MongoDB.
-* 📭 How to connect: bb.morakinyo@gmail.com | linkedin.com/in/moremi
+* 📭 How to connect: bb.morakinyo@gmail.com | http://www.linkedin.com/in/moremi
 * 📜 Read my write-ups on: https://cutt.ly/cFyUJTk and https://cutt.ly/2FyIwH6
 * 🎙 On my free time, I bake and try out new recipes.
 * ⚡ Fun fact: I love bowling.
