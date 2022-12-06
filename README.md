@@ -1,4 +1,4 @@
-# Moremi Morakinyo
+# Moremi Ige
 
 Hi there 👋 An overview about me:
 
